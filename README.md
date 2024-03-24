@@ -4,7 +4,7 @@
 
 > - 🌱 I’m currently learning **.Net Full Stack Developer (Angular),Software QA Specalist**
 
-- 📫 How to reach me **[Mail](ozgecam@outlook.com)**
+- 📫 How to reach me **ozgecam@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
