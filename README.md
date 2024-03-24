@@ -1,10 +1,10 @@
- ![MasterHead](https://wenajans.com/images/kurumsalyazilimgelistirme/yazilim-kapak.jpg)
+ ![MasterHead]()
 <h1 align="center">Hi 👋, I'm Özge ÇAM</h1>
 <h3 align="center"> </h3>
 
-- 🌱 I’m currently learning **.Net Full Stack Developer (Angular),Software QA Specalist**
+> - 🌱 I’m currently learning **.Net Full Stack Developer (Angular),Software QA Specalist**
 
-- 📫 How to reach me **ozgecam@outlook.com**
+- 📫 How to reach me **[Mail](ozgecam@outlook.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
