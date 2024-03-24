@@ -1,4 +1,4 @@
- ![MasterHead]([https://lh3.googleusercontent.com/proxy/TGKvaPrzuCyEyJrX26skTS69AuRRCfvLvB7tpfpzspg2n5mj_fgpp8XzAeHdW0ENGC4Rj8vvOsOGZCfS3WEfOYpwTFp1es6jG-8V5R4hMTD5](https://startupteknoloji.com/wp-content/uploads/2021/08/yazilima-yeni-baslayanlar-icin-yol-haritasi1-startupteknoloji.jpg))
+ ![MasterHead]([https://lh3.googleusercontent.com/proxy/TGKvaPrzuCyEyJrX26skTS69AuRRCfvLvB7tpfpzspg2n5mj_fgpp8XzAeHdW0ENGC4Rj8vvOsOGZCfS3WEfOYpwTFp1es6jG-8V5R4hMTD5](https://startupteknoloji.com/wp-content/uploads/2021/08/yazilima-yeni-baslayanlar-icin-yol-haritasi1-startupteknoloji.jpg)
 <h1 align="center">Hi 👋, I'm Özge ÇAM</h1>
 <h3 align="center"> </h3>
 
