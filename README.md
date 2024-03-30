@@ -1,4 +1,4 @@
- ![MasterHead](https://img.tamindir.com/2023/01/476730/yazilim-gelistirici.jpg)
+
 <h1 align="center">Hi 👋, I'm Özge ÇAM</h1>
 <h3 align="center"> </h3>
 
