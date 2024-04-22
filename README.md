@@ -3,6 +3,7 @@
 <h3 align="center"> </h3>
 
 > - 🌱 I’m currently learning **.Net Full Stack Developer (Angular),Software QA Specalist**
+> -  Medium : ozgeedc
 
 >- 📫 How to reach me **ozgecam@outlook.com**
 
