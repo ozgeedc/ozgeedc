@@ -1,9 +1,9 @@
 
 <h1 align="center"> # Hi 👋, I'm Özge ÇAM</h1>
 <h3 align="center">
-+ 🌱 I’m currently learning
-**.Net Full Stack Developer (Angular)
-   Software QA Test Specalist** </h3>
+**🌱 I’m currently learning**
++ .Net Full Stack Developer (Angular)
++  Software QA Test Specalist </h3>
 
 
 
