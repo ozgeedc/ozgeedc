@@ -6,7 +6,7 @@
 
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://ozgeedc.medium.com/)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=link)(https://www.linkedin.com/in/ozgeedc1610/)
+[![LinkedIn Badge](https://img.shields.io/badge/-linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/ozgeedc1610/)
 
 + 📫 How to reach me **ozgecam@outlook.com**
 
