@@ -18,12 +18,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozgeedc&theme=highcontrast&background=ffffff&border=666666&stroke=00d8ff&ring=00d8ff&fire=DD2727&currStreakNum=FF69B4&sideNums=FFA500&currStreakLabel=FF69B4" alt="GitHub Activity Graph" />
 </p>
-<!-- GitHub Project Board -->
-<p align="left">
-  Check out my projects on GitHub:
-  <br>
-  <a href="https://github.com/ozgeedc?tab=projects" target="_blank" rel="noopener noreferrer">My Projects</a>
-</p>
+
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
