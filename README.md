@@ -1,25 +1,45 @@
-
-<h1 align="center"> # Hi 👋, I'm Özge ÇAM</h1>
-<h3 align="center">
-🌱 I’m currently learning
-+ .Net Full Stack Developer (Angular)
-<br/>
-+  Software QA Test Specalist </h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Özge+ÇAM+;Software+QA+Testing+%F0%9F%92%BB;+Welcome+to+my+Github+profile" alt="Typing SVG" />
+</a>
 
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight200&size=23&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Learning+Python,Selenium,API+;JMeter,Jira-Xray,Postman" alt="Typing SVG" />
+  </a>
 
-## <h3 align="left">Connect with me:</h3>
-**📫 LİNKEDİN ; https://www.linkedin.com/in/ozgeedc1610/**
-**📫 Outlook ; ozgecam@outlook.com**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozgeedc&show_icons=true&locale=en&layout=compact&theme=dracula&bg_color=ffffff&text_color=0d1117" alt="Top Languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ozgeedc&show_icons=true&locale=en&layout=compact&theme=dracula&bg_color=ffffff&text_color=0d1117&icon_color=00d8ff&title_color=FF69B4&border_color=666666" alt="GitHub Stats" />
+</div>
 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://ozgeedc.medium.com/)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozgeedc&theme=highcontrast&background=ffffff&border=666666&stroke=00d8ff&ring=00d8ff&fire=DD2727&currStreakNum=FF69B4&sideNums=FFA500&currStreakLabel=FF69B4" alt="GitHub Activity Graph" />
+</p>
+<!-- GitHub Project Board -->
+<p align="left">
+  Check out my projects on GitHub:
+  <br>
+  <a href="https://github.com/ozgeedc?tab=projects" target="_blank" rel="noopener noreferrer">My Projects</a>
+</p>
+
+<!-- Connect with me -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ozgeedc1610/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ozgeedc1610/" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ozgecam@outlook.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:ozgecam@outlook.com" alt="Outlook" />
+  </a>
+  <a href="https://ozgeedc.medium.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Medium-757575?style=flat-square&logo=Medium&logoColor=white&link=https://ozgeedc.medium.com/" alt="Medium" />
+  </a>
+</p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozgeedc&show_icons=true&locale=en&layout=compact" alt="ozgeedc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozgeedc&show_icons=true&locale=en" alt="ozgeedc" /></p>
->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozgeedc&" alt="ozgeedc" /></p>
+
